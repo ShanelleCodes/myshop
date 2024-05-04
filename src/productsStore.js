@@ -1,17 +1,21 @@
+// t-shirt =    price_1PCoitIWuObHoMRrfxFCQj0M
+// tote =  price_1PCokaIWuObHoMRrYNLdJmDi
+// black shirt =   price_1PColHIWuObHoMRrVGuiElIv
+
 const productArray =[
     {
-        id: "1",
-        title: "Product 1",
+        id: "price_1PCoitIWuObHoMRrfxFCQj0M",
+        title: "Graphic T-shirt",
         price: 4.99
     },
     {
-        id: "2",
-        title: "Product 2",
+        id: "price_1PCokaIWuObHoMRrYNLdJmDi",
+        title: "Tote Bag",
         price: 4.99
     },
     {
-        id: "3",
-        title: "Product 3",
+        id: "price_1PColHIWuObHoMRrVGuiElIv",
+        title: "Black T-Shirt",
         price: 4.99
     }
 ]
